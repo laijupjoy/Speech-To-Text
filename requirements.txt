@@ -1,0 +1,14 @@
+SpeechRecognition==3.8.1
+flask
+flask-cors
+
+
+
+
+
+
+
+
+
+
+
